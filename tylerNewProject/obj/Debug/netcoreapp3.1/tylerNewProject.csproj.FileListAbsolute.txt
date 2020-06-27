@@ -1,0 +1,4 @@
+C:\Users\lucyw\Desktop\tylerNewProject\tylerNewProject\bin\Debug\netcoreapp3.1\tylerNewProject.exe
+C:\Users\lucyw\Desktop\tylerNewProject\tylerNewProject\obj\Debug\netcoreapp3.1\tylerNewProject.csprojAssemblyReference.cache
+C:\Users\lucyw\Desktop\tylerNewProject\tylerNewProject\obj\Debug\netcoreapp3.1\tylerNewProject.AssemblyInfoInputs.cache
+C:\Users\lucyw\Desktop\tylerNewProject\tylerNewProject\obj\Debug\netcoreapp3.1\tylerNewProject.AssemblyInfo.cs
